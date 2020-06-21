@@ -1,0 +1,10 @@
+D:\C#语言学习\教材\DataRecord\DataRecord\bin\Debug\DataRecord.exe.config
+D:\C#语言学习\教材\DataRecord\DataRecord\bin\Debug\DataRecord.exe
+D:\C#语言学习\教材\DataRecord\DataRecord\bin\Debug\DataRecord.pdb
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.csprojAssemblyReference.cache
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.Form1.resources
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.Properties.Resources.resources
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.csproj.GenerateResource.cache
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.csproj.CoreCompileInputs.cache
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.exe
+D:\C#语言学习\教材\DataRecord\DataRecord\obj\Debug\DataRecord.pdb
